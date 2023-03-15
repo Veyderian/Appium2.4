@@ -38,7 +38,8 @@ appium
 {
   "platformName": "Android",
   "deviceName": "Some name",
-  "app": "<путь_к_apk_файлу>"
+  "appPackage": "<путь_к_apk_файлу_смотрим_в_манифесте>"
+  "appActivity": "<путь_к_apk_файлу_смотрим_в_манифест_в_активити>"
 }
 
 ```
